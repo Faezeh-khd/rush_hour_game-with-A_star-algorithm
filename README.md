@@ -5,6 +5,7 @@ using A* algorithm to find the sequence of steps needed
 to solve the problem with the minimum number of movements.
 
 This program includes 6 classes:
+
 I. Main class where the desired test file is read.
 
 II. Board class in which the parking is created.
